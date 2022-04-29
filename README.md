@@ -1,4 +1,9 @@
-## Launching the application
+## Social App
+
+Fully-featured social media application using React, Firebase, Redux, Express, and Material-UI. 
+
+The application is available at: [https://fir-508b2.web.app/](https://fir-508b2.web.app/)
+
 In the project directory, you can run:
 
 ### `npm start`
